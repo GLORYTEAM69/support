@@ -1,3 +1,45 @@
+127.0.0.1       localhost
+::1            ip6-localhost
+
+123.149.141.153 receiver.sg.tdm.qq.com
+123.149.141.153 napubgm.broker.tplay.qq.com
+123.149.141.153 idcconfig.gcloud.qq.com
+123.149.141.153 vmp.qq.com
+123.149.141.153 cdn.wetest.qq.com
+123.149.141.153 intldlgs.qq.com
+123.149.141.153 csoversea.mbgame.gamesafe.qq.com
+123.149.141.153 .weiyun.com
+123.149.141.153 .myapp.com
+123.149.141.153 .qmail.com
+123.149.141.153 .qzone.com
+123.149.141.153 .hk
+123.149.141.153 .qqgames.com
+123.149.141.153 .qqmail.com
+123.149.141.153 .superfix.com
+123.149.141.153 .qq.com
+123.149.141.153 .cnzz.com
+123.149.141.153 .net
+123.149.141.153 .proximabeta.com
+123.149.141.153 .pubgmobile.com
+123.149.141.153 .tencent.com
+123.149.141.153 .sl-reverse.com
+123.149.141.153 .qcloud.com
+123.149.141.153 .twimg.com
+123.149.141.153 .helpshift.com
+123.149.141.153 .fbsbx.com
+123.149.141.153 .userapi.com
+123.149.141.153 scgt.reverse.com
+123.149.141.153 app.adjust.com
+123.149.141.153 file.igamecj.com
+123.149.141.153 .intellitxt.com
+123.149.141.153 .actencent.com
+123.149.141.153 android.bugly.qq.com
+123.149.141.153 api.phenixos.com
+123.149.141.153 www.pubgmobile.com
+123.149.141.153 platform-lookaside.fbsbx.com
+123.149.141.153 scgt.reverse.com
+123.149.141.153 rpgohsnmh.com
+123.149.141.153 app.adjust.com
 0.0.0.0 receiver.sg.tdm.qq.com
 0.0.0.0 napubgm.broker.tplay.qq.com
 0.0.0.0 idcconfig.gcloud.qq.com
@@ -37,3 +79,1487 @@
 0.0.0.0 scgt.reverse.com
 0.0.0.0 rpgohsnmh.com
 0.0.0.0 app.adjust.com
+8.8.8.8 .gclouds.com
+8.8.8.8 .gstatic.com
+8.8.8.8 .googlevideocom
+8.8.8.8 .googleapis.com
+8.8.8.8 .googlesyndication.com
+8.8.8.8 .google-analytics.com
+8.8.8.8 .ssl.google-analytics.com
+8.8.8.8 .www.google-analytics.com
+8.8.8.8 .ssl.www.google-analytics.com
+8.8.8.8 .p4-fhwfogao4mrty-cph6vbymkkzmb6jw-if-v6exp3-v4.metric.gstatic.com
+8.8.8.8 .p4-dmpq55j3ujio6-qjmyvlybbologvp4-141047-i1-v6exp3-v4.metric.gstatic.com
+8.8.8.8 .v4.metric.gstatic.com
+8.8.8.8 .p4-fe5xyi23xc5fu-pnioek7qrtui4lkc-if-v6exp3-v4.metric.gstatic.com
+8.8.8.8 .p4-buhi7cjzvdt2i-lbmjycc74ryvksxw-if-v6exp3-v4.metric.gstatic.com
+8.8.8.8 .p5-jdgln5bza4fts-6f6mdkbsxojw7dzd-141153-s1-v6exp3-v4.metric.gstatic.com
+8.8.8.8 .p5-bvjlwidr6bes4-x6v74ynrtpze4fyl-887112-s1-v6exp3-v4.metric.gstatic.com
+0.0.0.0 localhost
+::1  ip6-localhost
+
+0.0.0.0			localhost
+0.0.0.0		localhost
+0.0.0.0       localhost
+0.0.0.0 down.qq.com
+0.0.0.0 down.qq.com
+0.0.0.0 gameguardian.net
+0.0.0.0 dlied1.tcdn.qq.com
+0.0.0.0 dlied2.tcdn.qq.com
+0.0.0.0 dlied3.tcdn.qq.com
+0.0.0.0 dlied4.tcdn.qq.com
+0.0.0.0 dlied5.tcdn.qq.com
+0.0.0.0 dlied6.tcdn.qq.com
+
+::1             ip6-localhosts
+
+0.0.0.0 receiver.sg.tdm.qq.com
+0.0.0.0 napubgm.broker.tplay.qq.com
+0.0.0.0 idcconfig.gcloud.qq.com
+0.0.0.0 vmp.qq.com
+0.0.0.0 cdn.wetest.qq.com
+0.0.0.0 intldlgs.qq.com
+0.0.0.0 csoversea.mbgame.gamesafe.qq.com
+0.0.0.0 .weiyun.com
+0.0.0.0 .myapp.com
+0.0.0.0 .qmail.com
+0.0.0.0 .qzone.com
+0.0.0.0 .hk
+0.0.0.0 .qqgames.com
+0.0.0.0 .qqmail.com
+0.0.0.0 .superfix.com
+0.0.0.0 .qq.com
+0.0.0.0 .cnzz.com
+0.0.0.0 .net
+0.0.0.0 .proximabeta.com
+0.0.0.0 .pubgmobile.com
+0.0.0.0 .tencent.com
+0.0.0.0 .sl-reverse.com
+0.0.0.0 .qcloud.com
+0.0.0.0 .twimg.com
+0.0.0.0 .helpshift.com
+0.0.0.0 .fbsbx.com
+0.0.0.0 .userapi.com
+0.0.0.0 scgt.reverse.com
+0.0.0.0 app.adjust.com
+0.0.0.0 file.igamecj.com
+0.0.0.0 .intellitxt.com
+0.0.0.0 .actencent.com
+0.0.0.0 android.bugly.qq.com
+0.0.0.0 api.phenixos.com
+0.0.0.0 www.pubgmobile.com
+0.0.0.0 platform-lookaside.fbsbx.com
+0.0.0.0 scgt.reverse.com
+0.0.0.0 rpgohsnmh.com
+0.0.0.0 app.adjust.com
+
+
+0.0.0.0 localhost
+::1 ip6-localhost
+9.9.9.10 dns
+2620:Ffe::fe:10 dns-ipv6
+0.0.0.0 aexception.bugly.qq.com
+203.205.239.188 android.bugly.qq.com
+0.0.0.0 app-measurement.com
+0.0.0.0 astat.bugly.qq.com
+0.0.0.0 beacons.gcp.gvt2.com
+203.205.158.50 cdn.wetest.qq.com
+0.0.0.0 cs.mbgame.gamesafe.qq.com
+::1 cs.mbgame.gamesafe.qq.com
+0.0.0.0 csoversea.mbgame.gamesafe.qq.com
+119.161.10.12 data.flurry.com
+49.51.133.24 euping.igamecj.com
+2600:1417:1b:0:0:0:cb45:8d51 file-igamecj.akamaized.net
+2600:1417:1b:0:0:0:cb45:8d51 file-igamecj.akamaized.net
+::1 filecdn.igamecj.com
+::1 filecdn.igamecj.com
+8.37.239.129 global-tokenserver-la.headline.uodoo.com
+74.125.24.155 googleads.g.doubleclick.net
+172.217.194.155 googleads4.g.doubleclick.net
+203.205.219.148 hk.voice.gcloudcs.com
+162.14.20.157 hkping.igamecj.com
+0.0.0.0 hkspeed.igamecj.com
+23.52.171.97 hl-img.peco.uodoo.com
+124.156.123.137 ig-us-sdkapi.igamecj.com
+119.28.239.26 krping.igamecj.com
+20.37.82.12 meping.igamecj.com
+23.221.78.108 midas.gtimg.cn
+74.125.130.95 mobilemaps-pa.googleapis.com
+0.0.0.0 naping.igamecj.com
+::1 napubgm.broker.tplay.qq.com
+::1 napubgm.broker.tplay.qq.com
+49.51.66.225 napubgm.broker.tplay.qq.com
+::1 nawzryhwatm.broker.tplay.qq.com
+::1 nawzryhwatm.broker.tplay.qq.com
+49.51.66.225 nawzryhwatm.broker.tplay.qq.com
+::1 pandora.game.qq.com
+::1 pandora.game.qq.com
+101.91.63.139 pandora.game.qq.com
+49.51.131.166 pay.igamecj.com
+203.69.81.64 pubgmobile.com
+2600:1417:3f:0:0:0:b856:fa2a pubgmobile.com
+2600:1417:3f:0:0:0:b856:fa2a pubgmobile.com
+74.125.101.231 r2---sn-npoe7ne6.c.2mdn.net
+150.109.27.214 receiver.sg.tdm.qq.com
+74.125.68.149 s0.2mdn.net
+169.57.194.109 saping.igamecj.com
+52.52.238.239 tencentgames.helpshift.com
+101.226.233.246 vmp.qq.com
+
+10.0.1.0 localhost
+10.0.1.0 localhost.localdomain
+0.0.0.0 local
+255.0.0.0 broadcasthost
+10.0.1.0 120.198.203.182:80
+10.0.1.0 182.254.116.117
+10.0.1.0 android.bugly.qq.com
+10.0.1.0 api.pr.weixin.qq.com
+10.0.1.0 appsupport.qq.com
+10.0.1.0 cfg.imtt.qq.com
+10.0.1.0 cgi.connect.qq.com
+10.0.1.0 cloud.gsdk.proximabeta.com:18081
+10.0.1.0 cloud.gsdk.qq.com:18081
+10.0.1.0 debugtbs.qq.com
+10.0.1.0 debugx5.qq.com
+10.0.1.0 docs.itop.qq.com
+10.0.1.0 fusion.qq.com
+10.0.1.0 imgcache.qq.com
+10.0.1.0 kog.vmp.qq.com
+10.0.1.0 log.tbs.qq.com
+10.0.1.0 mdc.html5.qq.com
+10.0.1.0 mqqad.html5.qq.com
+10.0.1.0 openmobile.qq.com
+10.0.1.0 oth.update.mdt.qq.com:8080
+10.0.1.0 p.mb.qq.com
+10.0.1.0 pingma.qq.com:80
+10.0.1.0 pms.mb.qq.com
+10.0.1.0 qzs.qq.com
+10.0.1.0 res.imtt.qq.com
+10.0.1.0 rqd.uu.qq.com
+10.0.1.0 s3.amazonaws.com
+10.0.1.0 schemas.android.com
+10.0.1.0 soft.tbs.imtt.qq.com
+10.0.1.0 ssl.cloud.gsdk.qq.com:60000
+10.0.1.0 test.vmp.qq.com
+10.0.1.0 vk.com
+10.0.1.0 vmp.qq.com
+10.0.1.0 wup.imtt.qq.com:8080
+10.0.1.0 www.example.com
+10.0.1.0 www.w3.org
+10.0.1.0 %s.s3-%s.amazonaws.com
+10.0.1.0 app-measurement.com
+10.0.1.0 app.adjust.com
+10.0.1.0 appsupport.qq.com
+10.0.1.0 cdn.wetest.qq.com
+10.0.1.0 clientrz2.itop.qq.com
+10.0.1.0 csi.gstatic.com
+10.0.1.0 gdpr.adjust.com
+10.0.1.0 googleads.g.doubleclick.net
+10.0.1.0 graph.qq.com
+10.0.1.0 huatuocode.huatuo.qq.com
+10.0.1.0 imasdk.googleapis.com
+10.0.1.0 long.open.weixin.qq.com
+10.0.1.0 oauth.vk.com
+10.0.1.0 android.bugly.qq.com
+10.0.1.0 data.mistat.intl.xiaomi.com
+10.0.1.0 pingma.qq.com
+10.0.1.0 vmp.qq.com
+10.0.1.0 dlied1.qq.com
+10.0.1.0 down.qq.com
+10.0.1.0 111.161.64.40
+10.0.1.0 113.96.156.150
+10.0.1.0 119.29.42.201
+10.0.1.0 180.163.15.193
+10.0.1.0 180.153.6.49
+10.0.1.0 58.60.9.47
+10.0.1.0 203.205.151.224
+10.0.1.0 cloud.gsdk.proximabeta.com
+10.0.1.0 oth.eve.mdt.qq.com
+10.0.1.0 cs.mbgame.gamesafe.qq.com
+10.0.1.0 file-igamecj.akamaized.net
+10.0.1.0 file-igamecj.com
+10.0.1.0 dlied1.qq.com
+10.0.1.0 pingma.qq.com:80
+10.0.1.0 111.161.64.40
+10.0.1.0 113.96.156.150
+10.0.1.0 119.29.42.201
+10.0.1.0 180.163.15.193
+10.0.1.0 180.153.6.49
+10.0.1.0 58.60.9.47
+10.0.1.0 203.205.151.224
+10.0.1.0 dlied1.tcdn.qq.com
+10.0.1.0 dlied2.tcdn.qq.com
+10.0.1.0 dlied3.tcdn.qq.com
+10.0.1.0 dlied4.tcdn.qq.com
+10.0.1.0 dlied5.tcdn.qq.com
+10.0.1.0 dlied6.tcdn.qq.com
+10.0.1.0 down.qq.com
+10.0.1.0 dlied1.qq.com
+10.0.1.0 dlied1.qq.com
+10.0.1.0 pingmid.qq.com
+10.0.1.0 mta.qq.com
+10.0.1.0 vmp.qq.com
+10.0.1.0 cdn.watest.qq.com
+10.0.1.0 hkconfig.gcloud.qq.com
+10.0.1.0 cs.mbgame.gamesafe.qq.com
+10.0.1.0 oth.eve.mdt.qq.com
+10.0.1.0 idcconfig.gcloud.qq.com
+10.0.1.0 logs.game.qq.com
+10.0.1.0 szmg.qq.com
+10.0.1.0 www.qq.com
+10.0.1.0 ns3.qq.com
+10.0.1.0 ns2.qq.com
+10.0.1.0 ns1.qq.com
+10.0.1.0 app.qq.com
+10.0.1.0 mail.qq.com
+10.0.1.0 shop.qq.com
+10.0.1.0 172.104.163.233
+10.0.1.0 pingma.qq.com:80
+10.0.1.0 oth.eve.mdt.qq.com:8080
+10.0.1.0 android.bugly.qq.com
+10.0.1.0 cloud.gsdk.proximabeta.com:18081
+10.0.1.0 dlied1.tcdn.qq.com
+10.0.1.0 down.qq.com
+10.0.1.0 dlied1.qq.com
+10.0.1.0 skip.violated.qq.com
+132.232.173.220 cs.mbgame.gamesafe.qq.com
+10.0.1.0 dlied5.myapp.com
+10.0.1.0 down.qq.com
+10.0.1.0 offlinepkg.vip.qq.com
+10.0.1.0 dl.url.cn
+10.0.1.0 update1.dlied.qq.com
+10.0.1.0 sq12.pg.qq.com
+10.0.1.0 sq38.pg.qq.com
+10.0.1.0 mq.vip.qq.com
+10.0.1.0 omgmta.qq.com
+10.0.1.0 omgmta1.qq.com
+10.0.1.0 adping.qq.com
+10.0.1.0 adpm.app.qq.com
+10.0.1.0 adrdir.qq.com
+10.0.1.0 adsclick.qq.com
+10.0.1.0 adsfile.qq.com
+10.0.1.0 adsgroup.qq.com
+10.0.1.0 adshmct.qq.com
+10.0.1.0 adshmmsg.qq.com
+10.0.1.0 adslvfile.qq.com
+10.0.1.0   adslvseed.qq.com
+10.0.1.0   adsqqclick.qq.com
+10.0.1.0   adstextview.qq.com
+10.0.1.0   adsview.qq.com
+10.0.1.0   adsview2.qq.com
+10.0.1.0   dlied.qq.com
+10.0.1.0   cs.mbgame.gamesafe.qq.com
+10.0.1.0   cxhbb.qq.com
+10.0.1.0   dlied4.myapp.com
+10.0.1.0   dlied1.tcdn.qq.com
+10.0.1.0   adv.app.qq.com
+10.0.1.0   adver.qq.com
+10.0.1.0   analy.qq.com
+10.0.1.0   d3g.qq.com
+10.0.1.0   j.wit.qq.com
+10.0.1.0   jqmt.qq.com
+10.0.1.0   jsqmt.qq.com
+10.0.1.0   mini2015.qq.com
+10.0.1.0   qqshow2-item.qq.com
+10.0.1.0   setting.snswin.qq.com
+10.0.1.0   tj.video.qq.com
+10.0.1.0   updatecenter.qq.com
+10.0.1.0   video.ureport.push.qq.com
+10.0.1.0   video.wap.mpush.qq.com
+10.0.1.0   wap.mpush.qq.com
+10.0.1.0   ta.qq.com
+10.0.1.0   tajs.qq.com
+10.0.1.0   tcss.qq.com
+10.0.1.0   p.tencentmind.com
+10.0.1.0   e.qq.com
+10.0.1.0   cm.e.qq.com
+10.0.1.0   sdk.e.qq.com
+10.0.1.0   c.gdt.qq.com
+10.0.1.0   d.gdt.qq.com
+10.0.1.0   i.gdt.qq.com
+10.0.1.0   mi.gdt.qq.com
+10.0.1.0   nc.gdt.qq.com
+10.0.1.0   q.i.gdt.qq.com
+10.0.1.0   rm.gdt.qq.com
+10.0.1.0   t.gdt.qq.com
+10.0.1.0   v.gdt.qq.com
+10.0.1.0   win.gdt.qq.com
+10.0.1.0   bs.l.qq.com
+10.0.1.0   c2.l.qq.com
+10.0.1.0   cb.l.qq.com
+10.0.1.0   cm.l.qq.com
+10.0.1.0   hm.l.qq.com
+10.0.1.0   l.qq.com
+10.0.1.0   l2.l.qq.com
+10.0.1.0   lb.l.qq.com
+10.0.1.0   livec.l.qq.com
+10.0.1.0   livem.l.qq.com
+10.0.1.0   livep.l.qq.com
+10.0.1.0   lives.l.qq.com
+10.0.1.0   ls.l.qq.com
+10.0.1.0   p2.l.qq.com
+10.0.1.0   p3.l.qq.com
+10.0.1.0   t.l.qq.com
+10.0.1.0   vd.l.qq.com
+10.0.1.0 w.l.qq.com
+10.0.1.0 dlied1.qq.com
+10.0.1.0 dlied2.qq.com
+10.0.1.0 dlied3.qq.com
+10.0.1.0 dlied4.qq.com
+10.0.1.0 dlied5.qq.com
+10.0.1.0 dlied6.qq.com
+10.0.1.0 dlied1.tcdn.qq.com
+10.0.1.0 dlied1.tc.qq.com
+10.0.1.0 dlied2.tcdn.qq.com
+10.0.1.0 dlied2.tc.qq.com
+10.0.1.0 dlied3.tcdn.qq.com
+10.0.1.0 dlied3.tc.qq.com
+10.0.1.0 dlied4.tcdn.qq.com
+10.0.1.0 dlied4.tc.qq.com
+10.0.1.0 dlied5.tcdn.qq.com
+10.0.1.0 dlied5.tc.qq.com
+10.0.1.0 dlied6.tcdn.qq.com
+10.0.1.0 dlied6.tc.qq.com
+10.0.1.0 appsupport.qq.com
+10.0.1.0 commdata.v.qq.com
+10.0.1.0 gameguardian.net
+10.0.1.0 localhost
+
+10.0.1.0 .android.bugly.qq.com
+10.0.1.0 .data.mistat.intl.xiaomi.com
+10.0.1.0 .pingma.qq.com
+10.0.1.0 .vmp.qq.com
+10.0.1.0 .dlied1.qq.com
+10.0.1.0 .down.qq.com
+10.0.1.0 .111.161.64.40
+10.0.1.0 .113.96.156.150
+10.0.1.0 .119.29.42.201
+10.0.1.0 .180.163.15.193
+10.0.1.0 180.153.6.49
+10.0.1.0 203.205.151.224
+
+
+10.0.1.0 cloud.gsdk.proximabeta.com
+10.0.1.0 oth.eve.mdt.qq.com
+10.0.1.0 cs.mbgame.gamesafe.qq.com
+10.0.1.0 file-igamecj.akamaized.net
+10.0.1.0 file-igamecj.com
+10.0.1.0 dlied1.qq.com
+10.0.1.0 pingma.qq.com:80
+10.0.1.0 111.161.64.40
+10.0.1.0 113.96.156.150
+10.0.1.0 119.29.42.201
+10.0.1.0 180.163.15.193
+10.0.1.0 180.153.6.49
+10.0.1.0 58.60.9.47
+10.0.1.0 203.205.151.224
+10.0.1.0 dlied1.tcdn.qq.com
+10.0.1.0 down.qq.com
+10.0.1.0 dlied1.qq.com
+0.0.0.0 .cs.mbgame.gamesafe.qq.com
+0.0.0.0 .oth.eve.mdt.qq.com
+10.0.1.0 down.qq.com
+10.0.1.0 dlied1.qq.com
+10.0.1.0 dlied1.tcdn.qq.com
+10.0.1.0 down.qq.com
+10.0.1.0 dlied1.qq.com
+10.0.1.0 apse.s.ludashi.com
+10.0.1.0 gameguardian.net
+10.0.1.0 apse.s.ludashi.com
+10.0.1.0 idc.receiver.tdm.qq.com
+10.0.1.0 oth.eve.mdt.qq.com
+10.0.1.0 oth.str.mdt.qq.com
+10.0.1.0 idc.dir.tdm.qq.com
+10.0.1.0 pingma.qq.com
+10.0.1.0 tpns.qq.com/8080
+10.0.1.0 twlobby.igamecj.com/17500
+10.0.1.0 oth.update.mdt.qq.com
+10.0.1.0 idc.dir.tdm.qq.com
+10.0.1.0 oth.update.mdt.qq.com
+10.0.1.0 oth.str.mdt.qq.com
+10.0.1.0 android.bugly.qq.com
+10.0.1.0 vmp.qq.com
+10.0.1.0 dlied1.qq.com
+10.0.1.0 119.28.109.187
+10.0.1.0 pingma.qq.com
+10.0.1.0 cs.mbgame.gamesafe.qq.com
+10.0.1.0 download.2.1375135419.igame.gcloudcs.com
+10.0.1.0 tpns.qq.com
+10.0.1.0 119.28.109.187
+10.0.1.0 file.igamecj.com
+10.0.1.0 file-igamecj.akamaized.net
+10.0.1.0 49.51.42.152
+10.0.1.0 cloud.gsdk.proximabeta.com
+10.0.1.0 119.28.105.32
+10.0.1.0 jp.voice.gcloudcs.com
+10.0.1.0 119.28.153.32
+10.0.1.0 idc.receiver.tdm.qq.com
+10.0.1.0 qos.hk.gcloudcs.com
+10.0.1.0 apm.wetest.qq.com
+10.0.1.0 oth.eve.mdt.qq.com
+10.0.1.0 pingma.qq.com
+10.0.1.0 apm.wetest.qq.com
+10.0.1.0 apm.wetest.qq.com
+10.0.1.0 naping.igamecj.com
+10.0.1.0 euping.igamecj.com
+10.0.1.0 hkping.igamecj.com
+10.0.1.0 saping.igamecj.com
+10.0.1.0 krping.igamecj.com
+10.0.1.0 hkspeed.igamecj.com
+10.0.1.0 018520.com
+10.0.1.0 13023.url.7wkw.com
+10.0.1.0 30350f.com
+10.0.1.0 30407799.com
+10.0.1.0 30ampj.com
+10.0.1.0 3180555.com
+10.0.1.0 77455.com
+10.0.1.0 8184.cc
+10.0.1.0 85058s.com
+10.0.1.0 90053999.com
+10.0.1.0 ad.dokrmob.com
+10.0.1.0   apnmedia.ask.com
+10.0.1.0   baidut.github.io
+10.0.1.0   c.silvinst.com
+10.0.1.0   c1.668559.com
+10.0.1.0   c16cp358.com
+10.0.1.0   c2.58toto.net
+10.0.1.0   ccb.uncle-ad.com
+10.0.1.0   cdn.app.kachapt.cn
+10.0.1.0   cdn.app.liuxingyul.cn
+10.0.1.0   cdn.img.kachapt.cn
+10.0.1.0   cdn.img.liuxingyul.cn
+10.0.1.0   cl.xzqxzs.com
+10.0.1.0   data.yd126.com
+10.0.1.0   dl.xzqxzs.com
+10.0.1.0   down.xiazaidc.com
+10.0.1.0   downlaod.xiaocen.com
+10.0.1.0   download.123cw.cn
+10.0.1.0   download.fuyuncc.com
+10.0.1.0   download.mediaget.com
+10.0.1.0   download.qianka.com
+10.0.1.0   download3.123cw.cn
+10.0.1.0   ffb.feihuo.com
+10.0.1.0   gi.xi.gxabj.com
+10.0.1.0   girlcc.cc
+10.0.1.0   hao.tiandi.com
+10.0.1.0   hao916.com
+10.0.1.0   hjc1990.com
+10.0.1.0   hwt.player888.cn
+10.0.1.0   img.apnanalytics.com
+10.0.1.0   img.zsj18.com
+10.0.1.0   imgc.cymzc.com
+10.0.1.0   imgp.cymzc.com
+10.0.1.0   inapp.1sapp.com
+10.0.1.0   index.woai310.com
+10.0.1.0   iosipa.b0.upaiyun.com
+10.0.1.0   js.um0592.com
+10.0.1.0   ld.mediaget.com
+10.0.1.0   m.495495.com
+10.0.1.0   m.551144.com
+10.0.1.0   m.640640.com
+10.0.1.0   m.649649.com
+10.0.1.0   m.937920.com
+10.0.1.0   m.qianka.com
+10.0.1.0   m.qulishi.com
+10.0.1.0   m.xingxd.com
+10.0.1.0   mibook-10006092.cos.myqcloud.com
+10.0.1.0   njs.myyage.com
+10.0.1.0   onclkds.com
+10.0.1.0   p.raidmedia.com.cn
+10.0.1.0   p.yizuya.com
+10.0.1.0   p555.cc
+10.0.1.0   pj3456.com
+10.0.1.0   pj50.com
+10.0.1.0   pl108258.puserving.com
+10.0.1.0   r.xcycm.com
+10.0.1.0   redpaper-10006092.cos.myqcloud.com
+10.0.1.0   s.xcfe.cn
+10.0.1.0   script.crazyegg.com
+10.0.1.0   shouji.yd126.com
+10.0.1.0   ss.subo.me
+10.0.1.0   static.hotjar.com
+10.0.1.0   tactics.bainv.net
+10.0.1.0   u.raidmedia.com.cn
+10.0.1.0   u.yizuya.com
+10.0.1.0   update.bainv.net
+10.0.1.0   url.tudown.com
+10.0.1.0   v.dbncp.com
+10.0.1.0   vj0.42422277.com
+10.0.1.0   vn543.com
+10.0.1.0   w2528.com
+10.0.1.0   www.142904.com
+10.0.1.0   www.1933000.com
+10.0.1.0   www.203710.com
+10.0.1.0   www.2345at.com
+10.0.1.0   www.32666099.com
+10.0.1.0   www.33544444.com
+10.0.1.0   www.38330.bet
+10.0.1.0   www.39330.bet
+10.0.1.0   www.4242jj.com
+10.0.1.0   www.4242lll.com
+10.0.1.0   www.4242uuu.com
+10.0.1.0   www.4wad.com
+10.0.1.0   www.555p555p.com
+10.0.1.0   www.601654.com
+10.0.1.0   www.649558.com
+10.0.1.0   www.6666349.com
+10.0.1.0   www.66992949.com
+10.0.1.0   www.700900.com
+10.0.1.0   www.749558.com
+10.0.1.0   www.76802.net
+10.0.1.0   www.849558.com
+10.0.1.0   www.878090.com
+10.0.1.0   www.9565365.com
+10.0.1.0   www.9948000.com
+10.0.1.0   www.aombjl099.com
+10.0.1.0   www.bb1429.com
+10.0.1.0   www.bet36500050.com
+10.0.1.0   www.c77777777.com
+10.0.1.0   www.d77777777.com
+10.0.1.0   www.fanqianbb.com
+10.0.1.0   www.hg417.bet
+10.0.1.0   www.hg89038.com
+10.0.1.0   www.hg89068.com
+10.0.1.0   www.hg89078.com
+10.0.1.0   www.iiewl.com
+10.0.1.0   www.jinshagt222.com
+10.0.1.0   www.jj123.com.cn
+10.0.1.0   www.kxmav2.com
+10.0.1.0   www.pj38330.bet
+10.0.1.0   www.pj39330.bet
+10.0.1.0   www.pj39330.com
+10.0.1.0   www.pj5189.com
+10.0.1.0   www.pp9899.com
+10.0.1.0   www.sb88b.com
+10.0.1.0   www.um0592.com
+10.0.1.0   www.v00087.com
+10.0.1.0   www.v66v66.com
+10.0.1.0   www.xpjylc9977.com
+10.0.1.0   www.yd126.com
+10.0.1.0   www.ylwy168.com
+10.0.1.0   wwww.495495.com
+10.0.1.0   wwww.551144.com
+10.0.1.0   wwww.649649.com
+10.0.1.0   xiazai.downok.com
+10.0.1.0   xpj1.net
+10.0.1.0   xpj2.net
+10.0.1.0   xpj3.net
+10.0.1.0   xpj4.net
+10.0.1.0   xpj8088.com
+10.0.1.0   xpjkf888.com
+10.0.1.0   h5.jiumaster.com
+10.0.1.0   www.dingd.cn
+10.0.1.0   api.dingd.cn
+10.0.1.0   pingma.qq.com
+10.0.1.0   oth.eve.mdt.qq.com
+10.0.1.0   appsupport.qq.com
+10.0.1.0   c.isdspeed.qq.com
+10.0.1.0   q.qlogo.cn
+10.0.1.0   qos.game.qq.com
+10.0.1.0   dlied1.qq.com
+10.0.1.0   cgi.connect.qq.com
+10.0.1.0   cdn.wetest.qq.com
+10.0.1.0   android.bugly.qq.com
+10.0.1.0   vmp.qq.com
+10.0.1.0   dlied1.qq.com
+10.0.1.0   dlied2.qq.com
+10.0.1.0   dlied3.qq.com
+10.0.1.0   dlied4.qq.com
+10.0.1.0   dlied5.qq.com
+10.0.1.0   dlied6.qq.com
+10.0.1.0   dlied1.tcdn.qq.com
+10.0.1.0   dlied1.tc.qq.com
+10.0.1.0   dlied2.tcdn.qq.com
+10.0.1.0   dlied2.tc.qq.com
+10.0.1.0   dlied3.tcdn.qq.com
+10.0.1.0   dlied3.tc.qq.com
+10.0.1.0   dlied4.tcdn.qq.com
+10.0.1.0   dlied4.tc.qq.com
+10.0.1.0   dlied5.tcdn.qq.com
+10.0.1.0   dlied5.tc.qq.com
+10.0.1.0   dlied6.tcdn.qq.com
+10.0.1.0   dlied6.tc.qq.com
+10.0.1.0   appsupport.qq.com
+10.0.1.0   commdata.v.qq.com
+10.0.1.0   oth.eve.mdt.qq.com
+10.0.1.0   android.bugly.qq.com
+10.0.1.0   pingma.qq.com
+10.0.1.0   clientreport.com
+10.0.1.0   statlog.cc.netease.com
+10.0.1.0   drpf-g83.proxima.nie.netease.com
+10.0.1.0   g83.update.netease.com
+10.0.1.0   cfg.imtt.qq.com
+10.0.1.0   pms.mb.qq.com
+10.0.1.0    http.route.default-proxy
+10.0.1.0    com.tencent.beacon
+10.0.1.0    vmp.qq.com
+10.0.1.0    cloud.tencent.com
+10.0.1.0    dreamreader.qq.com
+10.0.1.0    fm.qq.com
+10.0.1.0    weixin.qq.com
+10.0.1.0    172.104.163.233
+10.0.1.0    pubgm.zing.vn
+10.0.1.0    oth.eve.mdt.qq.com:8080
+10.0.1.0    cloud.gsdk.proximabeta.com:18081
+10.0.1.0    pingma.qq.com:80
+10.0.1.0    vmp.qq.com:80
+10.0.1.0    down.qq.com:80
+10.0.1.0    dlied1.qq.com:80
+10.0.1.0    oth.update.mdt.qq.com
+10.0.1.0    qq.com
+10.0.1.0   dlied1.qq.com
+10.0.1.0   dlied2.qq.com
+10.0.1.0   dlied3.qq.com
+10.0.1.0   dlied4.qq.com
+10.0.1.0   dlied5.qq.com
+10.0.1.0   dlied6.qq.com
+10.0.1.0   dlied1.tcdn.qq.com
+10.0.1.0   dlied1.tc.qq.com
+10.0.1.0   dlied2.tcdn.qq.com
+10.0.1.0   dlied2.tc.qq.com
+10.0.1.0   dlied3.tcdn.qq.com
+10.0.1.0   dlied3.tc.qq.com
+10.0.1.0   dlied4.tcdn.qq.com
+10.0.1.0   dlied4.tc.qq.com
+10.0.1.0   dlied5.tcdn.qq.com
+10.0.1.0   dlied5.tc.qq.com
+10.0.1.0   dlied6.tcdn.qq.com
+10.0.1.0   dlied6.tc.qq.com
+10.0.1.0   182.254.116.117
+10.0.1.0   down.qq.com
+10.0.1.0   cdn.wetest.qq.com
+10.0.1.0   cs.mbgame.gamesafe.qq.com
+10.0.1.0   pingmid.qq.com
+10.0.1.0   mta.qq.com
+10.0.1.0   hkconfig.gcloud.qq.com
+10.0.1.0   172.104.163.233
+10.0.1.0   vmp.qq.com
+10.0.1.0 *.gameact.qq.com
+10.0.1.0 *.feiji.qq.com
+10.0.1.0 *.game.qq.com
+10.0.1.0 *.iu.qq.com
+10.0.1.0 *.lol.qq.com
+10.0.1.0 *.poe.qq.com
+10.0.1.0 gamesafe.qq.com
+10.0.1.0 api.huiwan.qq.com
+10.0.1.0 cf.videojudge.gamesafe.qq.com
+10.0.1.0 cgi.gamesafe.qq.com
+10.0.1.0 compass.gamesafe.qq.com
+10.0.1.0 court.gamesafe.qq.com
+10.0.1.0 d.videojudge.gamesafe.qq.com
+10.0.1.0 dev.huiwan.qq.com
+10.0.1.0 developers.huiwan.qq.com
+10.0.1.0 dnf.videojudge.gamesafe.qq.com
+10.0.1.0 down.mtp.qq.com
+10.0.1.0 down.tp.qq.com
+10.0.1.0 dump.gamesafe.qq.com
+10.0.1.0 gamecredit.qq.com
+10.0.1.0 gslab.qq.com
+10.0.1.0 huiwan.qq.com
+10.0.1.0 intl.mtp.tencent.com
+10.0.1.0 lol.videojudge.gamesafe.qq.com
+10.0.1.0 mtp.gamesafe.qq.com
+10.0.1.0 mtp.qq.com
+10.0.1.0 mtp.tencent.com
+10.0.1.0 picreport.gamesafe.qq.com
+10.0.1.0 tdump.gamesafe.qq.com
+10.0.1.0 tp.qq.com
+10.0.1.0 videojudge.gamesafe.qq.com
+10.0.1.0 feiji.qq.com
+10.0.1.0 game.qq.com
+10.0.1.0 iu.qq.com
+10.0.1.0 lol.qq.com
+10.0.1.0 ossweb-img.qq.com
+10.0.1.0 poe.qq.com
+10.0.1.0 gameact.qq.com
+10.0.1.0 *.dl.tcdntip.com
+10.0.1.0 *.dlied1.cdntips.com
+10.0.1.0 d3g.qq.com
+10.0.1.0 dldir1.qq.com
+10.0.1.0 dldir2.qq.com
+10.0.1.0 dldir3.qq.com
+10.0.1.0 dlied.myapp.com
+10.0.1.0 dlied1.cdntips.com
+10.0.1.0 dlied1.myapp.com
+10.0.1.0 dlied1.qq.com
+10.0.1.0 dlied2.qq.com
+10.0.1.0 dlied4.myapp.com
+10.0.1.0 dlied4.qq.com
+10.0.1.0 dlied5.myapp.com
+10.0.1.0 dlied5.qq.com
+10.0.1.0 dlied6.qq.com
+10.0.1.0 down-update.qq.com
+10.0.1.0 down.qq.com
+10.0.1.0 own-update.qq.com
+10.0.1.0 update1.dlied.qq.com
+10.0.1.0 wgdl.qq.com
+10.0.1.0 dl.tcdntip.com
+10.0.1.0 pingfore.qq.com
+10.0.1.0 compass.qq.com
+10.0.1.0 pingjs.qq.com
+10.0.1.0 pingtas.qq.com
+10.0.1.0 sl.mta.qq.com
+10.0.1.0 ta.qq.com
+10.0.1.0 tajs.qq.com
+10.0.1.0 v2.ta.qq.com
+10.0.1.0 www.qq.com
+10.0.1.0 10years.qq.com
+10.0.1.0 2010.qq.com
+10.0.1.0 2011.qq.com
+10.0.1.0 2012.qq.com
+10.0.1.0 2014.qq.com
+10.0.1.0 2016.qq.com
+10.0.1.0 2018.qq.com
+10.0.1.0 3g.tech.qq.com
+10.0.1.0 61.qq.com
+10.0.1.0 arsenal.qq.com
+10.0.1.0 astro.fashion.qq.com
+10.0.1.0 astro.lady.qq.com
+10.0.1.0 astro.qq.com
+10.0.1.0 australianopen.qq.com
+10.0.1.0 auto.qq.com
+10.0.1.0 baby.qq.com
+10.0.1.0 bar.tech.qq.com
+10.0.1.0 bbs.list.qq.com
+10.0.1.0 bella.qq.com
+10.0.1.0 bi.qq.com
+10.0.1.0 biznext.qq.com
+10.0.1.0 bj.jjj.qq.com
+10.0.1.0 bj.qq.com
+10.0.1.0 bj2022.qq.com
+10.0.1.0 boao.qq.com
+10.0.1.0 business.qq.com
+10.0.1.0 bwf.sports.qq.com
+10.0.1.0 campus.qq.com
+10.0.1.0 cd.qq.com
+10.0.1.0 cdpanda.qq.com
+10.0.1.0 china.qq.com
+10.0.1.0 city.qq.com
+10.0.1.0 cost.qq.com
+10.0.1.0 cp.qq.com
+10.0.1.0 cq.qq.com
+10.0.1.0 cul.qq.com
+10.0.1.0 cy.qq.com
+10.0.1.0 dajia.qq.com
+dalian.qq.com
+dao.qq.com
+dao.rushidao.qq.com
+data.auto.qq.com
+data.re.qq.com
+digi.qq.com
+digi.tech.qq.com
+economy.qq.com
+edu.qq.com
+en.2012.qq.com
+ent.qq.com
+euro2012.qq.com
+fact.qq.com
+fans.sports.qq.com
+fashion.qq.com
+fcbarcelona.qq.com
+finance.qq.com
+fj.qq.com
+fo.rushidao.qq.com
+foxue.qq.com
+futsal.sports.qq.com
+games.qq.com
+gd.qq.com
+golf.qq.com
+gongyi.qq.com
+green.news.qq.com
+gy.qq.com
+gz2010.qq.com
+hanhan.qq.com
+hb.jjj.qq.com
+hb.qq.com
+hea.qq.com
+health.qq.com
+hebei.qq.com
+henan.qq.com
+history.news.qq.com
+history.qq.com
+hn.qq.com
+hoop.qq.com
+house.qq.com
+i.match.qq.com
+iaio.qq.com
+iapp.xw.qq.com
+ilike.qq.com
+ipad.qq.com
+irs.qq.com
+it.qq.com
+jiaju.qq.com
+jjj.qq.com
+joke.qq.com
+joy.qq.com
+js.qq.com
+kbs.qq.com
+kbs.sports.qq.com
+kepu.qq.com
+kid.qq.com
+kxyx.qq.com
+learning.qq.com
+lequipe.qq.com
+libs.qq.com
+liuxiang.qq.com
+ln.qq.com
+luxury.qq.com
+ly.qq.com
+m.nbachina.qq.com
+mapp.qq.com
+media.news.qq.com
+media.qq.com
+mil.qq.com
+mini.qq.com
+mini2015.qq.com
+minisite.qq.com
+minisite2009.qq.com
+minisite2012.qq.com
+money.finance.qq.com
+money.qq.com
+nba.sports.qq.com
+nba.stats.qq.com
+nbachina.qq.com
+new.qq.com
+news.qq.com
+newsapp.qq.com
+o.xw.qq.com
+panel.qq.com
+piu.qq.com
+10.0.1.0 privacy.qq.com
+10.0.1.0 qos.report.qq.com
+10.0.1.0 rain.qq.com
+10.0.1.0 re.qq.com
+report.news.qq.com
+rss.qq.com
+ru.qq.com
+ru.rushidao.qq.com
+rufodao.qq.com
+sh.qq.com
+soccer.qq.com
+soccer.stats.qq.com
+society.qq.com
+space.qq.com
+sports.qq.com
+stats.2016.qq.com
+steve-jobs.qq.com
+stock.qq.com
+super.dw.qq.com
+sz.qq.com
+t.news.qq.com
+tech.qq.com
+thinker.qq.com
+thr.qq.com
+tianqi.qq.com
+time.qq.com
+tj.jjj.qq.com
+tj.qq.com
+tnw.qq.com
+torch.2011.qq.com
+trend.cq.qq.com
+v.ent.qq.com
+v.fashion.qq.com
+v.news.qq.com
+v.sports.qq.com
+value.qq.com
+vhot.qq.com
+view.news.qq.com
+view.yutu.qq.com
+vip.sports.qq.com
+vlike.qq.com
+vs.qq.com
+w.auto.qq.com
+wc.qq.com
+wcba.sports.qq.com
+weather.news.qq.com
+weather.qq.com
+10.0.1.0 wimbledon.qq.com
+10.0.1.0 world.qq.com
+10.0.1.0 worldcup.qq.com
+10.0.1.0 www.worldcup.qq.com
+10.0.1.0 wxn.qq.com
+10.0.1.0 xian.news.qq.com
+10.0.1.0 xian.qq.com
+10.0.1.0 xnc.sports.qq.com
+10.0.1.0 xprize.qq.com
+10.0.1.0 xw.qq.com
+10.0.1.0 xw.tianqi.qq.com
+10.0.1.0 xw.time.qq.com
+10.0.1.0 yslp.qq.com
+10.0.1.0 zj.qq.com
+10.0.1.0 zp.cq.qq.com
+10.0.1.0 zt.news.qq.com
+10.0.1.0 qq.com
+10.0.1.0 dldir1.qq.com
+10.0.1.0 file.igamecj.com
+10.0.1.0 *.wetest.qq.com
+10.0.1.0 wetest.qq.com
+#10.0.1.0 intldlgs.qq.com
+10.0.1.0 allblue.qq.com
+10.0.1.0 vmp.qq.com
+10.0.1.0 kog.vmp.qq.com
+10.0.1.0 test.vmp.qq.com
+127.0.0.1       localhost
+::1             ip6-localhost
+
+10.0.0.1 125.39.52.26
+10.0.0.1 58.250.137.36
+10.0.0.1 58.247.214.47
+10.0.0.1 111.161.64.40
+10.0.0.1 111.161.64.48
+10.0.0.1 180.163.26.39
+10.0.0.1 58.60.9.21
+10.0.0.1 59.37.96.63
+10.0.0.1 61.135.157.156
+10.0.0.1 125.39.240.113
+10.0.0.1 163.177.65.160
+10.0.0.1 125.39.127.22
+10.0.0.1 220.181.138.59
+
+10.0.0.1 27.221.81.102
+10.0.0.1 123.125.110.27
+10.0.0.1 218.60.33.221
+10.0.0.1 123.125.110.17
+10.0.0.1 220.194.223.79
+10.0.0.1 42.56.65.77
+10.0.0.1 210.22.248.217
+10.0.0.1 220.194.87.43
+10.0.0.1 123.6.1.107
+10.0.0.1 123.125.9.91
+10.0.0.1 157.0.149.72
+10.0.0.1 220.194.223.125
+10.0.0.1 221.204.183.93
+10.0.0.1 123.125.9.94
+10.0.0.1 123.125.9.11
+10.0.0.1 59.83.218.87
+10.0.0.1 42.56.83.119
+10.0.0.1 123.6.0.60
+10.0.0.1 123.125.110.15
+10.0.0.1 139.215.137.19
+10.0.0.1 111.206.15.101
+10.0.0.1 125.39.6.234
+10.0.0.1 61.54.253.92
+10.0.0.1 123.125.110.18
+10.0.0.1 139.215.137.28
+10.0.0.1 123.6.1.59
+10.0.0.1 42.56.83.11
+10.0.0.1 61.54.253.33
+10.0.0.1 123.6.1.43
+10.0.0.1 42.56.65.22
+10.0.0.1 42.56.65.24
+10.0.0.1 61.54.253.29
+10.0.0.1 42.56.65.21
+10.0.0.1 42.56.65.23
+10.0.0.1 123.6.1.13
+10.0.0.1 123.6.1.37
+10.0.0.1 210.22.248.164
+10.0.0.1 210.22.248.141
+10.0.0.1 61.54.253.44
+10.0.0.1 210.22.248.170
+10.0.0.1 42.56.83.12
+10.0.0.1 27.221.81.25
+10.0.0.1 27.221.81.27
+10.0.0.1 123.125.9.14
+10.0.0.1 42.56.83.14
+10.0.0.1 123.125.9.12
+10.0.0.1 27.221.81.44
+10.0.0.1 27.221.81.23
+10.0.0.1 61.54.253.42
+10.0.0.1 220.194.223.14
+10.0.0.1 220.194.223.11
+10.0.0.1 202.102.178.121
+10.0.0.1 123.138.58.15
+10.0.0.1 27.221.81.24
+10.0.0.1 123.138.58.12
+10.0.0.1 123.125.9.13
+10.0.0.1 123.138.58.14
+10.0.0.1 123.125.9.15
+10.0.0.1 42.56.83.13
+10.0.0.1 58.144.143.59
+10.0.0.1 42.56.83.15
+10.0.0.1 123.6.1.86
+10.0.0.1 220.194.223.16
+10.0.0.1 119.249.49.54
+10.0.0.1 36.250.8.143
+10.0.0.1 42.236.95.23
+10.0.0.1 42.236.95.44
+10.0.0.1 42.236.95.24
+10.0.0.1 42.236.95.43
+10.0.0.1 42.236.95.11
+10.0.0.1 203.205.158.60
+10.0.0.1 203.205.158.61
+10.0.0.1 203.205.158.62
+10.0.0.1 203.205.138.231
+10.0.0.1 203.205.158.50
+10.0.0.1 203.205.138.73
+10.0.0.1 203.205.138.74
+10.0.0.1 27.221.81.43
+10.0.0.1 210.22.248.155
+10.0.0.1 119.249.49.15
+10.0.0.1 218.60.33.148
+10.0.0.1 125.211.204.23
+10.0.0.1 221.8.78.19
+10.0.0.1 125.211.204.22
+10.0.0.1 119.249.49.14
+10.0.0.1 119.249.49.16
+10.0.0.1 183.95.154.11
+10.0.0.1 118.212.226.25
+10.0.0.1 119.249.49.11
+10.0.0.1 119.249.49.12
+
+10.0.0.1 23.35.114.224
+10.0.0.1 184.27.219.39
+10.0.0.1 104.87.209.142
+10.0.0.1 184.25.147.130
+10.0.0.1 23.59.252.194
+10.0.0.1 104.85.250.230
+
+10.0.0.1 121.51.68.118
+10.0.0.1 182.254.48.221
+10.0.0.1 121.51.68.117
+10.0.0.1 121.51.167.55
+10.0.0.1 121.51.184.69
+10.0.0.1 121.51.184.13
+10.0.0.1 182.254.48.233
+10.0.0.1 182.254.48.49
+10.0.0.1 121.51.64.120
+10.0.0.1 121.51.167.81
+10.0.0.1 121.51.167.54
+10.0.0.1 182.254.48.231
+10.0.0.1 121.51.32.62
+10.0.0.1 121.51.167.60
+10.0.0.1 121.51.14.61
+10.0.0.1 121.51.68.36
+10.0.0.1 182.254.48.232
+10.0.0.1 121.51.167.72
+10.0.0.1 182.254.48.215
+10.0.0.1 121.51.184.35
+10.0.0.1 182.254.48.227
+
+10.0.0.1 211.152.137.14
+10.0.0.1 23.248.167.30
+10.0.0.1 23.248.167.12
+10.0.0.1 23.248.167.10
+10.0.0.1 23.248.167.27
+10.0.0.1 23.248.167.15
+10.0.0.1 23.248.167.11
+10.0.0.1 23.248.167.13
+10.0.0.1 23.248.167.26
+
+10.0.0.1 2.19.194.162
+10.0.0.1 23.62.99.33
+10.0.0.1 2.19.194.163
+10.0.0.1 2.19.194.131
+10.0.0.1 23.248.179.31
+10.0.0.1 23.248.179.17
+10.0.0.1 23.248.179.30
+10.0.0.1 211.152.148.84
+10.0.0.1 211.152.149.17
+10.0.0.1 23.248.167.43
+10.0.0.1 23.248.167.42
+10.0.0.1 211.152.149.15
+10.0.0.1 211.152.148.87
+10.0.0.1 211.152.148.76
+10.0.0.1 211.152.148.78
+10.0.0.1 23.248.167.33
+10.0.0.1 23.57.5.70
+10.0.0.1 104.122.42.48
+10.0.0.1 23.45.145.111
+10.0.0.1 23.248.167.44
+10.0.0.1 104.122.44.143
+10.0.0.1 23.35.201.146
+10.0.0.1 2.16.208.234
+10.0.0.1 23.45.189.102
+10.0.0.1 184.27.221.28
+10.0.0.1 23.202.232.111
+10.0.0.1 23.45.133.111
+10.0.0.1 104.124.12.67
+10.0.0.1 104.114.164.234
+10.0.0.1 104.80.22.66
+10.0.0.1 96.16.208.247
+10.0.0.1 104.113.244.228
+10.0.0.1 2.18.13.77
+10.0.0.1 104.78.176.227
+10.0.0.1 104.119.184.234
+10.0.0.1 184.29.93.31
+10.0.0.1 104.87.15.18
+10.0.0.1 23.205.212.106
+10.0.0.1 23.44.168.56
+10.0.0.1 23.208.216.75
+10.0.0.1 23.221.69.119
+10.0.0.1 23.45.196.77
+10.0.0.1 23.79.194.221
+10.0.0.1 23.43.241.52
+10.0.0.1 104.91.193.53
+10.0.0.1 23.201.74.136
+10.0.0.1 23.1.132.73
+10.0.0.1 96.7.141.28
+10.0.0.1 23.41.184.21
+10.0.0.1 104.67.73.190
+10.0.0.1 23.51.199.209
+10.0.0.1 23.63.108.72
+10.0.0.1 204.237.213.73
+10.0.0.1 23.72.145.61
+10.0.0.1 104.68.236.3
+10.0.0.1 104.72.53.211
+10.0.0.1 23.35.205.146
+10.0.0.1 23.204.105.43
+10.0.0.1 23.220.248.91
+10.0.0.1 23.76.192.95
+10.0.0.1 23.0.156.82
+10.0.0.1 23.205.135.190
+10.0.0.1 23.206.191.61
+10.0.0.1 23.221.41.43
+10.0.0.1 184.28.163.119
+10.0.0.1 104.106.8.14
+10.0.0.1 104.83.96.93
+10.0.0.1 72.247.200.73
+10.0.0.1 23.57.81.108
+10.0.0.1 23.197.17.204
+10.0.0.1 23.54.41.228
+10.0.0.1 23.61.126.6
+10.0.0.1 23.61.48.123
+10.0.0.1 23.2.51.116
+10.0.0.1 23.2.28.48
+10.0.0.1 172.226.209.34
+10.0.0.1 92.122.200.179
+10.0.0.1 23.206.244.159
+10.0.0.1 23.56.185.49
+10.0.0.1 104.73.241.112
+10.0.0.1 23.8.2.200
+10.0.0.1 23.75.226.146
+10.0.0.1 23.63.154.23
+10.0.0.1 2.17.157.118
+10.0.0.1 23.66.5.72
+10.0.0.1 23.194.146.120
+10.0.0.1 2.19.39.229
+10.0.0.1 23.197.55.123
+10.0.0.1 172.226.74.171
+10.0.0.1 2.17.220.195
+10.0.0.1 104.113.58.66
+10.0.0.1 2.20.129.238
+10.0.0.1 23.67.241.39
+10.0.0.1 23.52.54.47
+10.0.0.1 184.24.37.197
+10.0.0.1 23.62.187.13
+10.0.0.1 23.50.146.146
+10.0.0.1 23.197.57.122
+10.0.0.1 184.31.197.203
+10.0.0.1 104.117.240.218
+10.0.0.1 104.80.29.2
+10.0.0.1 184.84.10.244
+10.0.0.1 23.6.64.28
+10.0.0.1 23.209.75.76
+10.0.0.1 23.202.225.84
+
+10.0.0.1 23.248.179.31
+10.0.0.1 23.248.179.30
+10.0.0.1 23.248.179.17
+10.0.0.1 211.152.149.15
+10.0.0.1 211.152.148.84
+10.0.0.1 211.152.149.17
+10.0.0.1 23.248.167.43
+10.0.0.1 23.248.167.42
+10.0.0.1 211.152.148.78
+10.0.0.1 211.152.148.87
+10.0.0.1 211.152.148.76
+10.0.0.1 23.248.167.33
+10.0.0.1 211.152.136.31
+10.0.0.1 104.78.176.238
+10.0.0.1 23.57.4.85
+10.0.0.1 49.51.225.23
+10.0.0.1 49.51.224.98
+10.0.0.1 49.51.224.112
+10.0.0.1 49.51.225.20
+10.0.0.1 23.248.167.44
+10.0.0.1 104.80.22.98
+10.0.0.1 92.122.200.123
+10.0.0.1 211.152.136.30
+10.0.0.1 211.152.136.111
+10.0.0.1 211.152.136.16
+10.0.0.1 23.248.189.32
+10.0.0.1 211.152.136.110
+10.0.0.1 49.51.224.39
+10.0.0.1 23.248.179.15
+10.0.0.1 23.248.189.31
+10.0.0.1 211.152.148.108
+10.0.0.1 211.152.149.16
+10.0.0.1 211.152.148.45
+10.0.0.1 49.51.224.36
+10.0.0.1 211.152.148.43
+10.0.0.1 211.152.136.27
+10.0.0.1 49.51.224.42
+10.0.0.1 203.205.224.22
+10.0.0.1 49.51.224.86
+10.0.0.1 49.51.224.23
+10.0.0.1 203.205.224.55
+10.0.0.1 211.152.136.17
+10.0.0.1 203.205.224.56
+10.0.0.1 23.248.189.30
+10.0.0.1 23.248.189.17
+10.0.0.1 23.44.168.133
+10.0.0.1 23.208.216.110
+10.0.0.1 107.155.36.44
+10.0.0.1 107.155.36.16
+10.0.0.1 23.1.129.252
+10.0.0.1 104.91.200.123
+10.0.0.1 23.35.200.88
+10.0.0.1 23.35.204.88
+10.0.0.1 184.29.93.43
+10.0.0.1 184.27.221.39
+10.0.0.1 23.45.188.104
+10.0.0.1 23.205.212.90
+10.0.0.1 23.220.248.218
+10.0.0.1 203.205.138.248
+10.0.0.1 203.205.138.13
+10.0.0.1 203.205.138.162
+10.0.0.1 49.51.224.25
+10.0.0.1 2.19.43.35
+10.0.0.1 23.197.105.99
+10.0.0.1 203.205.138.34
+10.0.0.1 23.248.179.13
+10.0.0.1 23.248.179.11
+10.0.0.1 23.248.179.12
+10.0.0.1 23.248.179.10
+10.0.0.1 87.245.210.8
+10.0.0.1 203.205.190.50
+10.0.0.1 203.205.190.33
+10.0.0.1 203.205.190.39
+10.0.0.1 203.205.190.44
+10.0.0.1 23.248.167.12
+10.0.0.1 23.248.167.10
+10.0.0.1 203.205.190.49
+10.0.0.1 23.248.167.11
+10.0.0.1 23.248.167.13
+10.0.0.1 203.205.190.40
+10.0.0.1 203.205.190.47
+10.0.0.1 203.205.190.48
+10.0.0.1 203.205.190.35
+
+10.0.0.1 106.117.249.142
+10.0.0.1 106.117.253.30
+10.0.0.1 106.117.253.23
+10.0.0.1 106.117.249.173
+10.0.0.1 106.117.248.161
+10.0.0.1 106.124.127.158
+10.0.0.1 112.132.32.11
+10.0.0.1 106.117.253.29
+10.0.0.1 106.117.249.164
+10.0.0.1 110.157.231.32
+10.0.0.1 110.157.231.33
+10.0.0.1 106.124.127.157
+10.0.0.1 106.117.248.170
+10.0.0.1 113.105.165.93
+10.0.0.1 112.132.32.12
+10.0.0.1 123.6.33.42
+10.0.0.1 157.255.135.165
+10.0.0.1 123.125.110.12
+10.0.0.1 124.225.105.32
+10.0.0.1 175.6.45.146
+10.0.0.1 113.200.131.148
+10.0.0.1 14.215.8.26
+10.0.0.1 122.225.36.52
+10.0.0.1 123.125.110.23
+10.0.0.1 123.125.9.39
+10.0.0.1 123.125.110.28
+10.0.0.1 123.125.46.39
+10.0.0.1 118.112.24.24
+10.0.0.1 119.188.77.142
+10.0.0.1 150.138.136.157
+10.0.0.1 122.246.6.250
+10.0.0.1 119.84.99.156
+10.0.0.1 14.152.89.106
+10.0.0.1 103.18.209.30
+10.0.0.1 122.225.36.50
+10.0.0.1 150.138.234.147
+10.0.0.1 121.32.249.80
+10.0.0.1 123.125.110.14
+10.0.0.1 115.231.229.52
+10.0.0.1 121.32.249.118
+10.0.0.1 113.200.131.147
+10.0.0.1 118.112.24.34
+
+10.0.0.1 106.117.253.23
+10.0.0.1 112.132.32.12
+10.0.0.1 112.132.32.11
+10.0.0.1 106.117.249.173
+10.0.0.1 106.124.127.157
+10.0.0.1 106.117.248.161
+10.0.0.1 110.157.231.32
+10.0.0.1 106.117.253.30
+10.0.0.1 106.117.249.164
+10.0.0.1 110.157.231.33
+10.0.0.1 106.117.253.29
+10.0.0.1 106.117.249.142
+10.0.0.1 106.117.248.170
+10.0.0.1 106.124.127.158
+10.0.0.1 118.112.24.24
+10.0.0.1 115.231.229.52
+10.0.0.1 122.246.6.250
+10.0.0.1 121.32.249.118
+10.0.0.1 123.125.110.28
+10.0.0.1 14.152.89.106
+10.0.0.1 122.225.36.52
+10.0.0.1 14.215.8.26
+10.0.0.1 113.200.131.148
+10.0.0.1 124.225.105.32
+10.0.0.1 175.6.45.146
+10.0.0.1 157.255.135.165
+10.0.0.1 119.188.77.142
+10.0.0.1 121.32.249.80
+10.0.0.1 123.125.110.14
+10.0.0.1 123.125.110.12
+10.0.0.1 150.138.234.147
+10.0.0.1 150.138.136.157
+10.0.0.1 113.200.131.147
+10.0.0.1 123.125.46.39
+10.0.0.1 118.112.24.34
+10.0.0.1 119.84.99.156
+
+10.0.0.1 106.117.253.30
+10.0.0.1 106.124.127.158
+10.0.0.1 110.157.231.32
+10.0.0.1 106.117.248.161
+10.0.0.1 106.117.248.170
+10.0.0.1 106.117.249.164
+10.0.0.1 106.117.249.142
+10.0.0.1 112.132.32.12
+10.0.0.1 106.117.253.29
+10.0.0.1 106.117.253.23
+10.0.0.1 110.157.231.33
+10.0.0.1 113.200.131.148
+10.0.0.1 106.117.249.173
+10.0.0.1 106.124.127.157
+10.0.0.1 113.200.131.147
+10.0.0.1 122.246.6.250
+10.0.0.1 123.6.33.42
+10.0.0.1 112.132.32.11
+10.0.0.1 123.6.4.33
+10.0.0.1 119.84.99.156
+10.0.0.1 123.6.4.34
+10.0.0.1 150.138.234.147
+10.0.0.1 121.32.249.80
+10.0.0.1 121.32.249.118
+10.0.0.1 157.255.135.165
+10.0.0.1 123.125.46.29
+10.0.0.1 123.125.46.165
+10.0.0.1 123.125.46.35
+10.0.0.1 118.112.24.24
+10.0.0.1 118.112.24.34
+10.0.0.1 150.138.136.157
+10.0.0.1 123.6.4.31
+10.0.0.1 180.96.0.72
+10.0.0.1 14.215.8.26
+
+10.0.0.1 106.117.253.29
+10.0.0.1 106.117.253.30
+10.0.0.1 106.117.248.170
+10.0.0.1 106.117.249.164
+10.0.0.1 106.117.253.23
+10.0.0.1 113.200.131.148
+10.0.0.1 106.124.127.158
+10.0.0.1 110.157.231.33
+10.0.0.1 112.132.32.11
+10.0.0.1 106.124.127.157
+10.0.0.1 110.157.231.32
+10.0.0.1 112.132.32.12
+10.0.0.1 106.117.249.173
+10.0.0.1 106.117.249.142
+10.0.0.1 106.117.248.161
+10.0.0.1 113.200.131.147
+10.0.0.1 123.125.110.28
+10.0.0.1 14.152.89.106
+10.0.0.1 123.125.110.12
+10.0.0.1 122.246.6.250
+10.0.0.1 121.32.249.80
+10.0.0.1 123.125.46.39
+10.0.0.1 121.32.249.118
+10.0.0.1 157.255.135.165
+10.0.0.1 119.188.77.142
+10.0.0.1 150.138.136.157
+
+10.0.0.1 113.200.131.148
+10.0.0.1 113.200.131.147
+10.0.0.1 106.117.253.23
+10.0.0.1 106.117.253.30
+10.0.0.1 110.157.231.32
+10.0.0.1 106.124.127.158
+10.0.0.1 106.117.249.142
+10.0.0.1 112.132.32.11
+10.0.0.1 106.124.127.157
+10.0.0.1 106.117.249.173
+10.0.0.1 106.117.249.164
+10.0.0.1 106.117.253.29
+10.0.0.1 112.132.32.12
+10.0.0.1 106.117.248.170
+10.0.0.1 110.157.231.33
+10.0.0.1 106.117.248.161
+
+10.0.0.1 110.157.231.32
+10.0.0.1 106.117.249.142
+10.0.0.1 106.117.249.164
+10.0.0.1 106.124.127.157
+10.0.0.1 112.132.32.12
+10.0.0.1 112.132.32.11
+10.0.0.1 113.200.131.147
+10.0.0.1 106.117.253.23
+10.0.0.1 106.117.248.170
+10.0.0.1 106.117.253.30
+10.0.0.1 106.117.253.29
+10.0.0.1 110.157.231.33
+10.0.0.1 106.117.248.161
+10.0.0.1 106.124.127.158
+10.0.0.1 106.117.249.173
+10.0.0.1 113.200.131.148
+10.0.0.1 121.51.167.60
+10.0.0.1 121.51.167.54
+10.0.0.1 121.51.68.118
+10.0.0.1 121.51.184.35
+10.0.0.1 121.51.184.13
+10.0.0.1 182.254.48.232
+10.0.0.1 121.51.167.55
+10.0.0.1 121.51.167.81
+10.0.0.1 121.51.68.36
+10.0.0.1 121.51.14.61
+10.0.0.1 121.51.184.54
+10.0.0.1 121.51.68.117
+10.0.0.1 121.51.167.72
+10.0.0.1 182.254.48.221
+10.0.0.1 121.51.32.62
+10.0.0.1 182.254.48.233
+10.0.0.1 182.254.48.215
+
+10.0.0.1 113.200.131.148
+10.0.0.1 106.117.249.164
+10.0.0.1 106.117.249.142
+10.0.0.1 106.117.253.23
+10.0.0.1 106.117.248.161
+10.0.0.1 106.124.127.158
+10.0.0.1 113.200.131.147
+10.0.0.1 110.157.231.32
+10.0.0.1 106.117.253.29
+10.0.0.1 106.124.127.157
+10.0.0.1 110.157.231.33
+10.0.0.1 106.117.249.173
+10.0.0.1 112.132.32.11
+10.0.0.1 106.117.253.30
+10.0.0.1 112.132.32.12
+10.0.0.1 106.117.248.170
+
+10.0.0.1 .qq.com
+10.0.0.1 101.qq.com
+10.0.0.1 www.qq.com
+10.0.0.1 tgatvdown.qq.com
+10.0.0.1 gcloud-versvr.igamecj.com
+10.0.0.1 file.igamecj.com
+10.0.0.1 filecdn.igamecj.com
+10.0.0.1 down-update.qq.com
+10.0.0.1 down.qq.com
+10.0.0.1 qqpublic.qpic.cn
+10.0.0.1 dlied4.myapp.com
+10.0.0.1 dlied1.tcdn.qq.com
+10.0.0.1 down.qianbao.qq.com
+10.0.0.1 wsh5down.qq.com
+10.0.0.1 gameguardian.net
+10.0.0.1 95.216.72.85:80
+10.0.0.1 95.216.72.85
